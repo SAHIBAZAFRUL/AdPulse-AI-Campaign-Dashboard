@@ -149,18 +149,6 @@ Some features I would like to add in the future:
 
 ---
 
-## Screenshots
-
-You can add screenshots of:
-
-- Login Page
-- Dashboard
-- Campaign Management
-- Analytics Page
-- Customer Management
-
----
-
 ## Author
 
 **Sahiba Zafrul**
