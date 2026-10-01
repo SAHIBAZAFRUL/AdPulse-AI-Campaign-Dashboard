@@ -148,6 +148,25 @@ Some features I would like to add in the future:
 - Role-based access for Admin and Users
 
 ---
+## 📸 Screenshots
+
+### Login
+![Login](screenshots/Login.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Campaigns
+![Campaigns](screenshots/campaigns.png)
+
+### Analytics
+![Analytics](screenshots/Analytics.png)
+
+### Customers
+![Customers](screenshots/Customers.png)
+
+### Settings
+![Settings](screenshots/Settings.png)
 
 ## Author
 
